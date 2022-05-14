@@ -4,4 +4,4 @@
 #### 删除镜像：sudo docker rmi xxxx
 #### 查看开放端口： sudo docker ps
 
-#### 这个模板同时改一下 1、./docker-compose.yml 和 Dockerfile 里的8001端口 2、./docker-compose.yml里的题目名便可使用
+#### 这个模板同时改一下 1、./docker-compose.yml 和 Dockerfile 里的8001端口 2、./docker-compose.yml里的题目名 3、把题目放bin里  即可使用
